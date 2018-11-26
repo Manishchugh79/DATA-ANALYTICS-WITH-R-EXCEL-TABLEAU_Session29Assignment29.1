@@ -59,39 +59,15 @@ You should form a table on a worksheet titled "class list" that includes the nam
 are: Allen, Borlin, Catlin, Dorsey, Eugene, Finneran, and Greco. Their scores on the first 3 tests are as follows:
 
 
-Test 1
-Test 2
-Test 3
-Allen
-Test 89
-Test 78
-Test 89
-Borlin
-Test 67
-Test 56
-Test 66
-Catlin
-Test 78
-Test 76
-Test 76
-Dorsey
-Test 56
-Test 34
-Test 45
-Eugene
-Test 26
-Test 100
-Test 99
-Finerran
-Test 
+            Test 1      Test 2      Test 3
+Allen       Test 89     Test 78     Test 89
+Borlin      Test 67     Test 56     Test 66
+Catlin      Test 78     Test 76     Test 76
+Dorsey      Test 56     Test 34     Test 45
+Eugene      Test 26     Test 100    Test 99
+Finerran    Test 99     Test 98     Test 97
+Greco       Test 78     Test 87     Test 88
 
-99
-Test 98
-Test 97
-Greco
-Test 78
-Test 87
-Test 88
 5. Problem Statement
 
 • Using an Excel function, show each student's average in an additional column labeled "Average"
