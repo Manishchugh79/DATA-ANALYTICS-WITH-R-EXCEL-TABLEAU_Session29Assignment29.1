@@ -70,7 +70,23 @@ the appropriate grade for each student. Use an absolute cell references in your 
 place the "cut-off grade" values in cells somewhere on your worksheet.
 
 Answer: 
-Path: 
+Names	Test1	Test2	Test3	Average	Rounded Average	Honors	Grade
+Allen 	89	78	89	85.33333333	85	NO	B
+Borlin	67	56	66	63	63	NO	D
+Catlin	78	76	76	76.66666667	77	NO	C
+Dorsey 	56	34	45	45	45	NO	F
+Eugene	26	100	99	75	75	NO	C
+Finerran	99	98	97	98	98	YES	A
+Greco	78	87	88	84.33333333	84	NO	B
+
+
+Rounded Average	GRADE
+0 - 60	F
+60 - 70	D
+70 - 80	C
+80 - 90	B
+90 - 100	A
+
 6. Expected Output
 N/A
 
